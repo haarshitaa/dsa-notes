@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string str(5, 'n'); // Create a string with 5 'n' characters
+    string str = "heyyy"; // Initialize a string with a value
     cout << str << endl;
     return 0;
 }
